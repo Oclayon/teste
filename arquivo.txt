@@ -1,1 +1,2 @@
 linha 01 para teste
+linha 02 para teste
